@@ -1,7 +1,7 @@
 # sobre mim
 
-- 👋 olá, meu nome é isadora2006
-- 👍: meu email de contadoto é isadora.rossetto.silva@escola.pr.gov.br
+- 👋 olá, meu nome é **@isadora2006**
+- 👍: meu email de contadoto é [email](isadora.rossetto.silva@escola.pr.gov.br)
 - 👀 eu estou interesado em aprender a promagar novas linguagens 
 - 🌱 eu estou aprendendo a progamar recentemente a linguagem JavaScript e Scratch
 
