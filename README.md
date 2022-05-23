@@ -2,10 +2,9 @@
 
 - 👋 olá, meu nome é isadora2006
 - 👍: meu email de contadoto é isadora.rossetto.silva@escola.pr.gov.br
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 eu estou interesado em aprender a promagar novas linguagens 
+- 🌱 eu estou aprendendo a progamar recentemente a linguagem JavaScript e Scratch
+
 
 <!---
 isadora2006/isadora2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
